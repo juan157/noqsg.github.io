@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="import" href="README.md">
+<link rel="import" href="README.md" onload=x()>
 </head>
 <body>
 <script>
+function x { 
 var doc = document.querySelector('link[rel="import"]').import;
 document.body.appendChild(doc.cloneNode(true));
+}
 </script>
 </body>
 </html>
