@@ -1,4 +1,4 @@
-# [URL collection from browsing twitter](noqsg.github.io)
+# [URL collection from browsing twitter](https://noqsg.github.io)
 <!-- Export all tabs extension custom format: * [{title}]({url})\r\n -->
 * [Coronavirus COVID-19 (2019-nCoV)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0k49fzqTxI4HBBZF7n4hLX4Zj0Q2KII_WOEo7agklC20KODB3TOeF8RrU#/bda7594740fd40299423467b48e9ecf6)
 * [ephemera-miscellany/[ShmooCon 2018] Listing the 1337 - Adventures in Curating HackerTwitter's Institutional Knowledge (@hexwaxwing + @DanielGallagher).pdf at master · 1337list/ephemera-miscellany · GitHub](https://github.com/1337list/ephemera-miscellany/blob/master/%5BShmooCon%202018%5D%20Listing%20the%201337%20-%20Adventures%20in%20Curating%20HackerTwitter's%20Institutional%20Knowledge%20(%40hexwaxwing%20%2B%20%40DanielGallagher).pdf)
