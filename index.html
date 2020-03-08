@@ -6,9 +6,7 @@
 <body>
 <script>
 var doc = document.querySelector('link[rel="import"]').import;
-// Grab DOM from README.md's document.
-var text = doc.querySelector('.doc');
-document.body.appendChild(text.cloneNode(true));
+document.body.appendChild(doc.cloneNode(true));
 </script>
 </body>
 </html>
